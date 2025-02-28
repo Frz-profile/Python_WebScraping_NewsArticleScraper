@@ -1,5 +1,4 @@
 # Python Web-Scraping News Article Scraper
-Overview
 This repository contains a Python script designed to scrape the latest news articles from The Star and extract key information such as headlines, article bodies, and publication dates. The scraped data is processed and saved into a structured format for easy analysis.
 
 Features:
